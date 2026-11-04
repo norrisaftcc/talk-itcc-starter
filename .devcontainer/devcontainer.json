@@ -1,0 +1,4 @@
+{
+  "name": "ITCC Starter (Python 3)",
+  "image": "mcr.microsoft.com/devcontainers/python:3"
+}
